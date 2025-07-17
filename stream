@@ -1,4 +1,4 @@
 import streamlit as st
 st.set_page_config(page_title="Plain Text App", layout="centered")
+st.image("chandana.jpg", caption="Welcome!", use_column_width=True)
 st.text("Hello I am Chandana!")
-
