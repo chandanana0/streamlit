@@ -1,0 +1,14 @@
+import streamlit as st
+st.set_page_config(page_title="Welcome App", layout="centered")
+st.title("Welcome to My Streamlit App")
+st.subheader("Hello and welcome!")
+st.markdown("""
+## Let's Get Started!
+Welcome.
+
+Easy to use  
+Interactive  
+Great for quick dashboards and apps
+
+Enjoy exploring Streamlit!
+""")
